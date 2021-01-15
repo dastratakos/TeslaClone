@@ -4,7 +4,7 @@
 
 ### January 14, 2020
 
-*Tesla Clone* is a React Native app to mimic the [Tesla landing page](https://www.tesla.com) in a mobile experience.
+*Tesla Clone* is a React Native app that mimics the [Tesla landing page](https://www.tesla.com) in a mobile experience.
 
 <img width="400" src="assets/TeslaClone.gif" alt="Tesla Clone">
 
